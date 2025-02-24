@@ -1,4 +1,5 @@
 Cryptix Defender AI v.1.0.0 Release
+![cryptix-defender-ai2](https://github.com/user-attachments/assets/e57e05bb-3d91-4324-83b1-8c7ea3798f24)
 
 After experiencing firsthand how frustrating DDoS and payload attacks can be, we decided to develop a security AI that functions as an intelligent firewall. The AI utilizes TensorFlow, neural networks, and deep learning to provide the most modern AI patterns. Cryptix Defender AI is not just designed for crypto projects; it can be used on any server that has a hosting task. All connections to a server are protected, and the AI currently offers the following security defense mechanisms. It is, therefore, also useful outside of crypto-related applications and protects against attackers.
 
@@ -34,6 +35,7 @@ Running Example:
 cryptix-defender-ai.exe --mode run --ban_mode block
 
 In the first version we will only use Windows. A Linux update will follow later.
+![cryptix-defender-ai](https://github.com/user-attachments/assets/c1df8a07-a1d0-4bc1-a91c-05184ac33974)
 
 
 Viruscheck:
