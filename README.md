@@ -34,3 +34,7 @@ Running Example:
 cryptix-defender-ai.exe --mode run --ban_mode block
 
 In the first version we will only use Windows. A Linux update will follow later.
+
+
+Viruscheck:
+https://www.virustotal.com/gui/file/762f3046e6edcbd0d69c85f80e55100a877972935aabb40edf42339b4d531bfa
