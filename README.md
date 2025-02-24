@@ -32,3 +32,5 @@ cryptix-defender-ai.exe --mode run --ban_mode [block/ban]
 
 Running Example:
 cryptix-defender-ai.exe --mode run --ban_mode block
+
+In the first version we will only use Windows. A Linux update will follow later.
