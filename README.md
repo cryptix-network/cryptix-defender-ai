@@ -25,7 +25,7 @@ cryptix-defender-ai.exe --mode train --train_time [SECONDS]
 
 Training Example:
 cryptix-defender-ai.exe --mode train --train_time 30
----
+
 
 Running Modus:
 cryptix-defender-ai.exe --mode run --ban_mode [block/ban]
